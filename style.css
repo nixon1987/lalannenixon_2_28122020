@@ -893,6 +893,8 @@ border-radius: 1rem 1rem 0 0;
       }
 }
 
+}
+
 /* footer */
 
 footer{
@@ -908,7 +910,6 @@ footer{
     grid-gap: 1rem;
     max-width: 1550px;
     margin: auto;
-
 }
 
 .footer-organisation h3{
@@ -935,10 +936,3 @@ footer{
 }
 
 /* footer */
-
-
-
-
-
-
-
